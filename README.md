@@ -1,4 +1,4 @@
-#Cabal Stack Awesome Init
+# Cabal Stack Awesome Init
 
 Saves having to go through the tedious `cabal init` adding a .ghci file to show all warnings.
 
